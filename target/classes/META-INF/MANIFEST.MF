@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mkytkajr
+Build-Jdk: 9.0.1
+Implementation-Title: Leaf
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: kytka.io
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/leaf
+Created-By: Maven Integration for Eclipse
+
